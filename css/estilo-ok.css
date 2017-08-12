@@ -1,24 +1,7 @@
 ﻿
 
 body{
-
-    background:white;
-
 }
-#imagem{
-
-    position:absolute;    
-    background:#F0F8FF;
-    width:1422px;
-    height:95px;
-    right:6%;
-    left:0%;
-    top:0%;
-    opacity:0.6;
-    
-}
-
-
 
 
 #login{
@@ -117,10 +100,10 @@ body{
 #logo {
     position:absolute;
     align:center;
-    left:35%;
-    right:36%;
+    left:41%;
+    right:30%;
     width:30%;
-    height:30%;
+    height:12%;
     opacity:10;
     top:2%;
    
@@ -181,4 +164,4 @@ color:#D3D3D3;
 </p>
 
 
-sss
+
