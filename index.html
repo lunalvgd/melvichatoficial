@@ -6,6 +6,9 @@
 	<link rel="stylesheet" type="text/css" href="css/estiloo.css" />
 
 <title>MelVi Chat</title>
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 
 
@@ -13,7 +16,7 @@
 
     
     
-    <img src ="flor.jpg" id="fundo"/>
+    <img src ="img/flor.jpg" id="fundo"/>
 
         
 
@@ -24,14 +27,14 @@
 
    
 
-            <form class="olá" action="cadastro.php">
+            <form id="cadastro" name="cadastro" class="olá" action="cadastro.php" method="post">
 
                 <div class="olá">
-                    <input id="usuario" type="name" class="_kp5f7 _qy55y" aria-describedby="" aria-label="Nome de usuário" aria-required="true" autocapitalize="off" autocorrect="off" name="name" placeholder="Nome de usuário" value="">
+                    <input id="nome" type="name" class="_kp5f7 _qy55y" aria-describedby="" aria-label="Nome de usuário" aria-required="true" autocapitalize="off" autocorrect="off" name="nome" placeholder="Nome de usuário" value="">
                     <input id="email" type="name" class="_kp5f7 _qy55y" aria-describedby="" aria-label="Email" aria-required="true" autocapitalize="off" autocorrect="off" name="email" placeholder="Email" value="">
                     <input id="senha" type="password" class="_kp5f7 _qy55y" aria-describedby="" aria-label="Senha" aria-required="true" autocapitalize="off" autocorrect="off" name="senha" placeholder="Senha" value="">
                     <input id="conf" type="password" class="_kp5f7 _qy55y" aria-describedby="" aria-label="Confirmar senha" aria-required="true" autocapitalize="off" autocorrect="off" name="conf" placeholder="Confirmar senha" value="">
-                    <input type="submit" name="Cadastrar" class="botao">    
+                    <input name="cadastrar" type="submit" id="cadastrar" value="Concluir meu Cadastro!" class="botao">    
                 </div>
 
             </form>
