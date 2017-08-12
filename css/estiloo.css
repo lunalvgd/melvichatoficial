@@ -1,0 +1,184 @@
+﻿
+
+body{
+
+    background:white;
+
+}
+#imagem{
+
+    position:absolute;    
+    background:#F0F8FF;
+    width:1422px;
+    height:95px;
+    right:6%;
+    left:0%;
+    top:0%;
+    opacity:0.6;
+    
+}
+
+
+
+
+#login{
+
+    position:absolute;
+    width:35px;
+    height:35px;
+    left:94.5%;
+    top:3%;
+    cursor: pointer;
+    
+
+}
+
+
+
+#fundo {
+    position: absolute;
+    width:99.5%;
+    height:100%;
+    top:0%;
+}
+
+
+
+#nome{
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    left:41%;
+    top:35%;
+    border-radius:-12%;
+}
+
+
+#usuario{
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    left:41%;
+    top:40%;
+    border-radius:-12%;
+}
+
+
+
+
+#email {
+
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    left:41%;
+    top:45%;
+    border-radius:-12%;
+}
+
+
+#senha {
+
+    position:absolute;
+    width:260px;
+    height:20px;
+    left:41%;
+    top:50%;
+    border-radius:-12%;
+    
+}
+
+
+#conf{
+
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    left:41%;
+    top:55%;
+    border-radius:-12%;
+}
+
+
+
+#quadrado {
+    position:absolute;
+    background-color:white;
+    opacity:0.8;
+    text-align:center;
+    width:500px;
+    height:500px;
+    left:33%;
+    right:38%;
+    top:13%;
+    border-radius:12%;
+}
+
+#logo {
+    position:absolute;
+    align:center;
+    left:41%;
+    right:36%;
+    width:12%;
+    height:12%;
+    opacity:10;
+    top:2%;
+   
+}
+
+#txtmelvichat {
+    position:absolute;
+    color:black;
+    font-family:Poster;
+    font-size:20px;
+    text-align:center;
+    right:40%;
+    left:34%;
+    top:10%;
+}
+
+.botao  {
+position:absolute;
+top:65%;
+left:45%;
+margin:0px;
+padding:0px;
+border-radius:12%;
+opacity:0.8;
+
+        }
+
+.botao a, .botao a:visited {  
+font: bold 12px/30px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:#000000;
+background: #DCDCDC url('botao_link.gif') no-repeat 
+center center;	
+width:150px;  
+height:30px;	
+display:block;	
+box-shadow: inset 0 0  1px #000000;
+border-radius:5%;
+
+
+	}
+
+.botao a:hover { 
+background: #B0C4DE url('botao_hover.gif') no-repeat 
+center center;
+color:#D3D3D3;
+
+               }
+-->
+
+</style>
+</head>
+<body>
+<p class="botao">
+<a href="#" title="MelVi Chat">Botão CSS</a>
+</p>
+
+
+sss
