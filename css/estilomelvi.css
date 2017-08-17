@@ -1,0 +1,239 @@
+/*----------------------------------------ESTILO DE IMAGEM GERAL DAS PÁGINAS-----------------------------------------------*/
+
+#fundo {
+	position:absolute;
+	width:99.5%;
+	height:100%;
+	top:0%;
+}
+
+/*#imgfundo{
+
+    position:absolute;    
+    background:#F0F8FF;
+    width:1422px;
+    height:95px;
+    right:6%;
+    left:0%;
+    top:0%;
+    opacity:0.6;
+    
+}*/
+
+
+#quadrado {
+	position:absolute;
+	background-color:white;
+	opacity:0.8;
+	text-align:center;
+	width:500px;
+	height:500px;
+	left:33%;
+	right:38%;
+	top:13%;
+	border-radius:12%;
+	
+}
+
+#logo {
+	position:absolute;
+	align:center;
+	left:33%;
+	right:30%;
+	width:30%;
+	height:30%;
+	opacity:10;
+	top:-2%;
+}
+
+/*--------------------------------------ESTILO PÁGINA DE APRESENTAÇÃO---------------------------------------------------*/
+
+#txtexplicacao {
+	top:30%;
+	right:12%;
+	left:2%;
+	position:absolute;
+}
+
+/*-------------------------------------ESTILO PÁGINA DE CADASTRO--------------------------------------------------------*/
+
+#usuario{
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    left:41%;
+    top:40%;
+    border-radius:-12%;
+}
+
+#email {
+
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    left:41%;
+    top:45%;
+    border-radius:-12%;
+}
+
+
+#senha {
+
+    position:absolute;
+    width:260px;
+    height:20px;
+    left:41%;
+    top:50%;
+    border-radius:-12%;
+    
+}
+
+
+#conf{
+
+    position: absolute;
+    width: 260px;
+    height: 20px;
+    left:41%;
+    top:55%;
+    border-radius:-12%;
+}
+
+.botao  {
+position:absolute;
+top:65%;
+left:50%;
+margin:0px;
+padding:0px;
+border-radius:12%;
+opacity:0.8;
+
+        }
+
+.botao a, .botao a:visited {  
+font: bold 12px/30px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:#000000;
+background: #DCDCDC url('botao_link.gif') no-repeat 
+center center;	
+width:150px;  
+height:30px;	
+display:block;	
+box-shadow: inset 0 0  1px #000000;
+border-radius:5%;
+
+
+	}
+
+.botao a:hover { 
+background: #B0C4DE url('botao_hover.gif') no-repeat 
+center center;
+color:#D3D3D3;
+
+               }
+-->
+
+</style>
+</head>
+<body>
+<p class="botao">
+<a href="#" title="MelVi Chat">Botão CSS</a>
+</p>
+
+
+/*------------------------------ESTILO PÁGINA DE LOGIN---------------------------*/
+
+
+#troco {
+
+    position:absolute;
+    width:260px;
+    height:20px;
+    left:41%;
+    top:45%;
+    border-radius:-12%;
+}
+
+
+#senha1 {
+
+    position:absolute;
+    width:260px;
+    height:20px;
+    left:41%;
+    top:50%;
+    border-radius:-12%;
+    
+}
+
+
+
+.botaologin  {
+position:absolute;
+top:65%;
+left:45%;
+margin:0px;
+padding:0px;
+border-radius:12%;
+opacity:0.8;
+        }
+
+.botaologin a, .botaologin a:visited { 
+font: bold 12px/30px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:#000000;
+background: #DCDCDC url('botao_link.gif') no-repeat 
+center center;	
+width:150px;  
+height:30px;	
+display:block;	
+box-shadow: inset 0 0  1px #000000;
+border-radius:5%;
+
+}
+
+.botaologin a:hover {
+background: #B0C4DE url('botao_hover.gif') no-repeat 
+center center;
+color:#D3D3D3;
+
+}
+-->
+
+</style>
+</head>
+<body>
+<p class="botaologin">
+
+<a href="#" title="MelVi Chat">Botão CSS</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
