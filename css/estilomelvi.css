@@ -228,18 +228,47 @@ color:#D3D3D3;
 
 
 
+/*----------------------------------------Pagina de mensagem--------------------------------------------------*/
 
 
+#perfil{
+	position:absolute;
+    width:1000px;
+    height:200px;
+	background-color:#FFE4B5;
+	left:15%;
+	top:0%;
 
 
+	
+
+}
 
 
+#imagem_fundo_mensagem{
+	position:absolute;
+    width:1410px;
+    height:800px;
+	top:0%;
+	
+}
 
 
-
-
-
-
-
+#mensagem{
+	position:absolute;
+    width:1000px;
+    height:800px;
+	background-color:white;
+	left:15%;
+	opacity:0.5;
+	top:0%;
+}
+#foto_perfil{
+	position:absolute;
+    width:140px;
+    height:140px;
+	left:18%;
+	top:5%;
+}
 
 
