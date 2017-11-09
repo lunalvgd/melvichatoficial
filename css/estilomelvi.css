@@ -215,18 +215,6 @@ color:#D3D3D3;
 
 
 
-/*-------------------------------------------ESTILO PAGINA PERFIL-----------------------------------------*/
-
-
-#olamundo {
-	top:2%;
-	font-family:verdana;
-	font-size:150px;
-	right:2%;
-}
-
-
-
 
 /*----------------------------------------Pagina de mensagem--------------------------------------------------*/
 
@@ -297,3 +285,15 @@ color:#D3D3D3;
  	opacity:0.2;
 	color:#00BFFF;
 }
+
+/*-------------------------------------------ESTILO PAGINA PERFIL-----------------------------------------*/
+
+#conversas_do_perfil {
+	position: absolute;
+	right:31.5%;
+	top:20%;
+	z-index:5;
+	font-size: 200%;
+}
+
+
