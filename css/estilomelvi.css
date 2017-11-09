@@ -215,6 +215,18 @@ color:#D3D3D3;
 
 
 
+/*-------------------------------------------ESTILO PAGINA PERFIL-----------------------------------------*/
+
+
+#olamundo {
+	top:2%;
+	font-family:verdana;
+	font-size:150px;
+	right:2%;
+}
+
+
+
 
 /*----------------------------------------Pagina de mensagem--------------------------------------------------*/
 
@@ -223,10 +235,9 @@ color:#D3D3D3;
 	position:absolute;
     width:1000px;
     height:200px;
-	background-color:#FFA500;
+	background-color:#FFE4B5;
 	left:15%;
 	top:5%;
-	opacity:0.6;
 
 
 	
@@ -237,7 +248,7 @@ color:#D3D3D3;
 #imagem_fundo_mensagem{
 	position:absolute;
     width:1410px;
-    height:800px;
+    height:900px;
 	top:0%;
 	
 }
@@ -246,7 +257,7 @@ color:#D3D3D3;
 #mensagem{
 	position:absolute;
     width:1000px;
-    height:800px;
+    height:827px;
 	background-color:white;
 	left:15%;
 	opacity:0.5;
@@ -286,14 +297,86 @@ color:#D3D3D3;
 	color:#00BFFF;
 }
 
-/*-------------------------------------------ESTILO PAGINA PERFIL-----------------------------------------*/
+#BotaoFechar{
 
-#conversas_do_perfil {
-	position: absolute;
-	right:31.5%;
-	top:20%;
-	z-index:5;
-	font-size: 200%;
+	position:absolute;
+    width:25px;
+    height:25px;
+	left:81.5%;
+	top:8%;
+	
 }
+
+
+#divEnviar{
+	position:absolute;
+    width:1000px;
+    height:60px;
+	background-color:#FFE4B5;
+	left:15%;
+	top:110%;
+
+}
+
+
+#enviar{
+	position:absolute;
+    width:100px;
+    height:30px;
+	left:60%;
+	top:25%;
+
+}
+
+#caixaDeMensagem{
+	position:absolute;
+    width:270px;
+    height:40px;
+	left:28%;
+	top:10%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
