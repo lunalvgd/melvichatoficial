@@ -235,9 +235,10 @@ color:#D3D3D3;
 	position:absolute;
     width:1000px;
     height:200px;
-	background-color:#FFE4B5;
+	background-color:#FFA500;
 	left:15%;
 	top:5%;
+	opacity:0.6;
 
 
 	
@@ -269,6 +270,7 @@ color:#D3D3D3;
     height:140px;
 	left:18%;
 	top:9%;
+	border-radius:50%;
 }
 
 #abelha{
@@ -281,14 +283,17 @@ color:#D3D3D3;
 #Samara{	
 	position:absolute;
 	left:30%;
-	top:10.5%;		
+	top:14%;		
 	z-index: 5;
-	font-size: 300%;
+	font-size: 200%;
 }
 #Samara2{
 	position:absolute;
 	right:31.5%;
-	top:14.5%;		
+	top:19.5%;		
 	z-index: 5;
-	font-size: 200%;
+	font-size: 150%;
+	left: 33%;
+ 	opacity:0.2;
+	color:#00BFFF;
 }
