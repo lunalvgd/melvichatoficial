@@ -225,7 +225,37 @@ color:#D3D3D3;
 	right:2%;
 }
 
+#conversas_do_perfil {
+	position: absolute;
+	right:50%;
+	top:40%;
+	z-index:5;
+	font-size:200%;
+}	
 
+#tracinho_separacao_perfil {
+	position: absolute;
+	right:48.5%;
+	top:40%;
+	z-index:5;
+	font-size:200%;
+}
+
+#interesses_perfil {
+	position: absolute;
+	right:31.5%;
+	top:40%;
+	z-index:5;
+	font-size:200%;
+}
+
+#div_conversas {
+
+}
+
+#div_interesses {
+
+}
 
 
 /*----------------------------------------Pagina de mensagem--------------------------------------------------*/
